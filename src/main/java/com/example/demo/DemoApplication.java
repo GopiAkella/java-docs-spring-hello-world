@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello World!";
+		return "Hello CQUni COIT20260 students, Today is Friday, 22, November 2024!";
 	}
 }
